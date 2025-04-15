@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClientMain",
+            "request": "launch",
+            "mainClass": "com.example.parchis_ciente.ClientMain",
+            "projectName": "parchisOnline_d2a89589"
+        },
+        {
+            "type": "java",
+            "name": "ServerMain",
+            "request": "launch",
+            "mainClass": "com.example.parchis.ServerMain",
+            "projectName": "parchisOnline_d2a89589"
+        },
+        {
+            "type": "java",
+            "name": "ClientMain",
+            "request": "launch",
+            "mainClass": "com.example.parchis_ciente.ClientMain",
+            "projectName": "parchisOnline_a296d333"
+        },
+        {
+            "type": "java",
+            "name": "ServerMain",
+            "request": "launch",
+            "mainClass": "com.example.parchis.ServerMain",
+            "projectName": "parchisOnline_a296d333"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.parchis_ciente.Main",
+            "projectName": "parchisOnline_a296d333"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.parchis.Main",
+            "projectName": "parchisOnline_a296d333"
+        }
+    ]
+}
